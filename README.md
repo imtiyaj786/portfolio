@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+# Personal-Portfolio
+
+> This is personal portfolio website.
+
+![Portfolio UI](https://user-images.githubusercontent.com/55544765/224716604-593e9507-f5c1-42cb-98ba-3d2f7fdac84d.PNG)
+
+
 ## Steps to follow:
 
 - Choose a folder in your local machine where you want this repository to be copied
