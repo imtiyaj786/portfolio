@@ -2,6 +2,47 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Learn More
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Steps to follow:
+
+- Choose a folder in your local machine where you want this repository to be copied
+
+- Clone this repo to your system
+- ```
+  git clone https://github.com/imtiyaj786/portfolio.git
+  ```
+
+## run command :
+
+- npm install
+- npm install @emailjs/browser --save
+- npm i swiper
+- npm install react-icons
+
+## Author
+
+:men: **Imtiyaj Alam**
+
+- [GitHub](https://github.com/imtiyaj786)
+- [LinkedIn](https://www.linkedin.com/in/imtiyaj786/)
+
+## 🤝 Contributing
+
+- Contributions, issues, and feature requests are welcome!
+
+- Feel free to check the [issues page] https://github.com/imtiyaj786/portfolio/issues .
+
+# Show your support
+
+Give a ⭐ if you like this project!
+
+## Live Demo
+
+- [Live Demo] https://portfolio-imtiyaj786.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -38,33 +79,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
