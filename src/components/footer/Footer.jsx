@@ -5,6 +5,10 @@ import { FaAngellist } from "react-icons/fa";
 import "./footer.css";
 
 const Footer = () => {
+  let getYear = () => {
+    let currentYear = new Date().getFullYear();
+    return currentYear;
+  };
   return (
     <footer>
       <a href="#home" className="footer__logo">
@@ -54,7 +58,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; IN 2023. All rights reserved.</small>
+        <small>&copy; IN {getYear()}. By Mohamad.</small>
       </div>
     </footer>
   );
