@@ -2,7 +2,7 @@ import React from "react";
 import IMG1 from "../../assets/mainPage.PNG";
 import IMG2 from "../../assets/nextPrev.PNG";
 import IMG3 from "../../assets/searchPage.PNG";
-import IMG4 from "../../assets/signIn.PNG";
+import IMG4 from "../../assets/clonenetflix.png";
 import IMG5 from "../../assets/workPort.jpg";
 import IMG6 from "../../assets/workPort2.png";
 
@@ -22,13 +22,13 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Google Clone",
+      title: "Netflix Clone",
       img: IMG4,
       description:
-        "A Google Search clone which is created by using Next JS and tailwind CSS.",
-      technologies: "React | Redux",
-      link: "https://google-clone-v2-nine.vercel.app/",
-      github: "https://github.com/imtiyaj786/google-clone-v2",
+        "Fullstack Netflix Clone with React, NextJS, TailwindCSS & Prisma MongoDB.",
+      technologies: "React | NextJs | TailwindCSS",
+      link: "https://netflix-clone-imtiyaj786.vercel.app/",
+      github: "https://github.com/imtiyaj786/Netflix-Clone",
     },
     {
       id: 3,
